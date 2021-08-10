@@ -1,6 +1,6 @@
 /*
  
- Name: Avijeet Adhikari
+ name: Avijeet Adhikari
  
  */
 #define _GNU_SOURCE
